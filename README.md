@@ -3,7 +3,7 @@
 This is a Next.js application. It is deployed on Vercel and can be tested
 here:
 
-https://order-mu.vercel.app
+full-stack-order-practice.vercel.app
 
 Please note that for testing we've restricted the dates that can be selected
 to only `2024-09-02` and `2024-09-03`.
