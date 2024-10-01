@@ -44,11 +44,9 @@ Next.js, shadcn UI for UI components, SWR for fetching, Tailwind CSS for styling
 
 The application look like this:
 
-![Screenshot 2024-09-04 at 6 00 05 PM](https://github.com/user-attachments/assets/8e9c36ec-994a-4fb3-b03e-600fffe81e82)
 
+![Screenshot 2024-10-01 at 4 48 35 PM](https://github.com/user-attachments/assets/3e2dfa15-5622-403b-80df-fe06cb46b2a6)
 
-![Screenshot 2024-09-04 at 6 35 09 PM](https://github.com/user-attachments/assets/9152ec1d-d5e2-43f2-965e-492cd5517130)
-
-
+![Screenshot 2024-10-01 at 4 48 27 PM](https://github.com/user-attachments/assets/393ad6c1-518f-413c-a9f2-06909d2bc93d)
 
 
