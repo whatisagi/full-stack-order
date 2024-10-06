@@ -1,7 +1,8 @@
 # order
 
 This is a Next.js application. It is deployed on Vercel and can be tested
-here (note: only September 02 and September 03 can be tested)
+here (note: only **September 02** and **September 03** can be tested - choose these dates on the calendar
+when you click the following link):
 
 [full-stack-order-practice.vercel.app](https://full-stack-order-practice.vercel.app)
 
