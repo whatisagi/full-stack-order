@@ -1,13 +1,19 @@
 # order
 
-This is a Next.js application. It is deployed on Vercel and can be tested
+This is a full stack Next.js application. It is deployed on Vercel and can be tested
 here (note: only **September 02** and **September 03** can be tested - choose these dates on the calendar
 when you click the following link):
 
 [full-stack-order-practice.vercel.app](https://full-stack-order-practice.vercel.app)
 
-Please note that for testing we've restricted the dates that can be selected
+Please note again that for testing we've restricted the dates that can be selected
 to only `2024-09-02` and `2024-09-03`.
+
+The full stack app is written to solve the following problem
+
+[problem.pdf](https://github.com/user-attachments/files/17269578/problem.pdf)
+
+
 
 ### Design
 
